@@ -1,9 +1,9 @@
-# cog-qwen2-vl-7b-instruct
-Cog wrapper for qwen2-vl-7b-instruct
+# cog-qwen2_5-vl-72b-instruct
+Cog wrapper for Qwen2.5-VL-72B-Instruct
 
-# Qwen/Qwen2-VL-7B-Instruct Cog model
+# Qwen/Qwen2.5-VL-72B-Instruct Cog model
 
-This is an implementation of [Qwen/Qwen2-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
+This is an implementation of [Qwen/Qwen2.5-VL-72B-Instruct](https://huggingface.co/Qwen/Qwen2.5-VL-72B-Instruct) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
 
 Run a prediction:
 
